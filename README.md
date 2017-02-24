@@ -1,18 +1,18 @@
-winsploit [![Build Status](https://travis-ci.org/rapid7/winsploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/winsploit-framework) [![Code Climate](https://img.shields.io/codeclimate/github/rapid7/winsploit-framework.svg)](https://codeclimate.com/github/rapid7/winsploit-framework)
+Winsploit [![Build Status](https://travis-ci.org/rapid7/winsploit-framework.svg?branch=master)](https://travis-ci.org/rapid7/winsploit-framework) [![Code Climate](https://img.shields.io/codeclimate/github/rapid7/winsploit-framework.svg)](https://codeclimate.com/github/rapid7/winsploit-framework)
 ==
-The winsploit Framework is released under a BSD-style license. See
+The Winsploit Framework is released under a BSD-style license. See
 COPYING for more details.
 
-The latest version of this software is available from: https://winsploit.com
+The latest version of this software is available from: https://www.ethankemp.weebly.com/winsploit
 
 Bug tracking and development information can be found at:
- https://github.com/rapid7/winsploit-framework
+ https://github.com/todkemp/winsploit
 
 New bugs and feature requests should be directed to:
   http://r-7.co/MSF-BUGv1
 
 API documentation for writing modules can be found at:
-  https://rapid7.github.io/winsploit-framework/api
+  https://todkemp.github.io/winsploit/api
 
 Questions and suggestions can be sent to:
   https://lists.sourceforge.net/lists/listinfo/winsploit-hackers
@@ -20,16 +20,16 @@ Questions and suggestions can be sent to:
 Installing
 --
 
-Generally, you should use [the free installer](https://www.winsploit.com/download),
+Generally, you should use [the free installer](https://www.ethankemp.weebly.com/winsploit),
 which contains all of the dependencies and will get you up and running with a
 few clicks. See the [Dev Environment Setup](http://r-7.co/MSF-DEV) if
 you'd like to deal with dependencies on your own.
 
-Using winsploit
+Using Winsploit
 --
 winsploit can do all sorts of things. The first thing you'll want to do
-is start `msfconsole`, but after that, you'll probably be best served by
-reading [winsploit Unleashed][unleashed], the [great community
+is start `wsfconsole`, but after that, you'll probably be best served by
+reading [Winsploit Unleashed][unleashed], the [great community
 resources](https://winsploit.github.io), or the [wiki].
 
 Contributing
